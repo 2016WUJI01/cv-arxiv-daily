@@ -24,3 +24,5 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "HSI":
         filters: ["HSI", "Hyperspectral image"]
+    "Time Series":
+        filters: ["Time Series"]
