@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -10,6 +10,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#hsi>HSI</a></li>
   </ol>
 </details>
 
@@ -973,7 +974,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## SFM
 
@@ -1398,7 +1399,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2562,7 +2563,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2877,7 +2878,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3211,7 +3212,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## NeRF
 
@@ -4829,7 +4830,24 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+
+## HSI
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|null|
+|**2025-06-11**|**Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization**|Amirreza Khoshbakht et.al.|[2506.09460](http://arxiv.org/abs/2506.09460)|null|
+|**2025-06-10**|**Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems**|Guyang Zhang et.al.|[2506.08596](http://arxiv.org/abs/2506.08596)|null|
+|**2025-06-11**|**Hyperspectral Image Classification via Transformer-based Spectral-Spatial Attention Decoupling and Adaptive Gating**|Guandong Li et.al.|[2506.08324](http://arxiv.org/abs/2506.08324)|null|
+|**2025-06-03**|**Machine Learning-Assisted Analysis of Combustion and Ignition in As-milled and Annealed Al/Zr Composite Powders**|Michael R. Flickinger et.al.|[2506.06364](http://arxiv.org/abs/2506.06364)|null|
+|**2025-06-09**|**Fine-grained Hierarchical Crop Type Classification from Integrated Hyperspectral EnMAP Data and Multispectral Sentinel-2 Time Series: A Large-scale Dataset and Dual-stream Transformer Method**|Wenyuan Li et.al.|[2506.06155](http://arxiv.org/abs/2506.06155)|null|
+|**2025-06-05**|**DACN: Dual-Attention Convolutional Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|[2506.05041](http://arxiv.org/abs/2506.05041)|null|
+|**2025-06-03**|**Demystifying Tubal Tensor Algebra**|Haim Avron et.al.|[2506.03311](http://arxiv.org/abs/2506.03311)|null|
+|**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
+|**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
+
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
