@@ -5,6 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#hsi>HSI</a></li>
+    <li><a href=#time-series>Time Series</a></li>
   </ol>
 </details>
 
@@ -22,6 +23,23 @@
 |**2025-06-03**|**Demystifying Tubal Tensor Algebra**|Haim Avron et.al.|[2506.03311](http://arxiv.org/abs/2506.03311)|null|
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
+
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+
+## Time Series
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-11**|**Evidence for Dual Periodic Signatures in PKS 0805-07 from Multi-technique Time Series Analysis**|Sikandar Akbar et.al.|[2506.09602](http://arxiv.org/abs/2506.09602)|null|
+|**2025-06-11**|**Data-Driven Performance Measures using Global Properties of Attractors for Black-Box Surrogate Models of Chaotic Systems**|Luci Fumagalli et.al.|[2506.09546](http://arxiv.org/abs/2506.09546)|null|
+|**2025-06-11**|**STOAT: Spatial-Temporal Probabilistic Causal Inference Network**|Yang Yang et.al.|[2506.09544](http://arxiv.org/abs/2506.09544)|null|
+|**2025-06-11**|**Neural Functions for Learning Periodic Signal**|Woojin Cho et.al.|[2506.09526](http://arxiv.org/abs/2506.09526)|null|
+|**2025-06-11**|**LLM-Powered CPI Prediction Inference with Online Text Time Series**|Yingying Fan et.al.|[2506.09516](http://arxiv.org/abs/2506.09516)|null|
+|**2025-06-11**|**Apparent motion of penumbral grains in a sunspot simulation**|Michal Sobotka et.al.|[2506.09504](http://arxiv.org/abs/2506.09504)|null|
+|**2025-06-11**|**Anomaly Detection and Generation with Diffusion Models: A Survey**|Yang Liu et.al.|[2506.09368](http://arxiv.org/abs/2506.09368)|null|
+|**2025-06-10**|**Causal Graph Recovery in Neuroimaging through Answer Set Programming**|Mohammadsajad Abavisani et.al.|[2506.09286](http://arxiv.org/abs/2506.09286)|null|
+|**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
+|**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
 <p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
