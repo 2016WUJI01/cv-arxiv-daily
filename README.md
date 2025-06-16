@@ -6,6 +6,7 @@
   <ol>
     <li><a href=#hsi>HSI</a></li>
     <li><a href=#time-series>Time Series</a></li>
+    <li><a href=#graph-neural-networks>Graph Neural Networks</a></li>
   </ol>
 </details>
 
@@ -13,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
+|**2025-06-13**|**Hilbert subspace imprint: a new mechanism for non-thermalization**|Hui Yu et.al.|[2506.11922](http://arxiv.org/abs/2506.11922)|null|
+|**2025-06-13**|**FCA2: Frame Compression-Aware Autoencoder for Modular and Fast Compressed Video Super-Resolution**|Zhaoyang Wang et.al.|[2506.11545](http://arxiv.org/abs/2506.11545)|null|
+|**2025-06-12**|**Scalable Context-Preserving Model-Aware Deep Clustering for Hyperspectral Images**|Xianlu Li et.al.|[2506.11377](http://arxiv.org/abs/2506.11377)|null|
+|**2025-06-12**|**HyBiomass: Global Hyperspectral Imagery Benchmark Dataset for Evaluating Geospatial Foundation Models in Forest Aboveground Biomass Estimation**|Aaron Banze et.al.|[2506.11314](http://arxiv.org/abs/2506.11314)|null|
 |**2025-06-12**|**Class-Incremental Learning for Honey Botanical Origin Classification with Hyperspectral Images: A Study with Continual Backpropagation**|Guyang Zhang et.al.|[2506.10489](http://arxiv.org/abs/2506.10489)|null|
 |**2025-06-12**|**Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Intermediate Feature Distance**|Chun Liu et.al.|[2506.10459](http://arxiv.org/abs/2506.10459)|null|
 |**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|**[link](https://github.com/jhqi/ssgco-egael)**|
@@ -32,6 +38,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Why Do Class-Dependent Evaluation Effects Occur with Time Series Feature Attributions? A Synthetic Data Investigation**|Gregor Baer et.al.|[2506.11790](http://arxiv.org/abs/2506.11790)|null|
+|**2025-06-13**|**Using Deep Operators to Create Spatio-temporal Surrogates for Dynamical Systems under Uncertainty**|Jichuan Tang et.al.|[2506.11761](http://arxiv.org/abs/2506.11761)|null|
+|**2025-06-13**|**AgriPotential: A Novel Multi-Spectral and Multi-Temporal Remote Sensing Dataset for Agricultural Potentials**|Mohammad El Sakka et.al.|[2506.11740](http://arxiv.org/abs/2506.11740)|null|
+|**2025-06-13**|**Choosing observables that capture critical slowing down before tipping points: A Fokker-Planck operator approach**|Johannes Lohmann et.al.|[2506.11735](http://arxiv.org/abs/2506.11735)|null|
+|**2025-06-13**|**Perspectives on Explanation Formats From Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers**|Mengisti Berihu Girmay et.al.|[2506.11665](http://arxiv.org/abs/2506.11665)|null|
+|**2025-06-13**|**Multivariate Time-series Transformer Embeddings for Light Curves**|Gabriel Chiong et.al.|[2506.11637](http://arxiv.org/abs/2506.11637)|null|
+|**2025-06-13**|**Leveraging Satellite Image Time Series for Accurate Extreme Event Detection**|Heng Fang et.al.|[2506.11544](http://arxiv.org/abs/2506.11544)|null|
+|**2025-06-13**|**Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics**|Zijian Wang et.al.|[2506.11528](http://arxiv.org/abs/2506.11528)|null|
+|**2025-06-13**|**Prioritizing Alignment Paradigms over Task-Specific Model Customization in Time-Series LLMs**|Wei Li et.al.|[2506.11512](http://arxiv.org/abs/2506.11512)|null|
+|**2025-06-13**|**A Two-step Estimating Approach for Heavy-tailed AR Models with General Non-zero Median Noises**|Rui She et.al.|[2506.11509](http://arxiv.org/abs/2506.11509)|null|
 |**2025-06-12**|**Learning Chaotic Dynamics with Neuromorphic Network Dynamics**|Yinhao Xu et.al.|[2506.10773](http://arxiv.org/abs/2506.10773)|null|
 |**2025-06-12**|**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**|Yucong Luo et.al.|[2506.10630](http://arxiv.org/abs/2506.10630)|null|
 |**2025-06-12**|**Deep Learning-Based Digitization of Overlapping ECG Images with Open-Source Python Code**|Reza Karbasi et.al.|[2506.10617](http://arxiv.org/abs/2506.10617)|null|
@@ -47,6 +63,23 @@
 |**2025-06-10**|**Causal Graph Recovery in Neuroimaging through Answer Set Programming**|Mohammadsajad Abavisani et.al.|[2506.09286](http://arxiv.org/abs/2506.09286)|null|
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
+
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+
+## Graph Neural Networks
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869](http://arxiv.org/abs/2506.11869)|null|
+|**2025-06-13**|**Taxonomy of reduction matrices for Graph Coarsening**|Antonin Joly et.al.|[2506.11743](http://arxiv.org/abs/2506.11743)|null|
+|**2025-06-13**|**Relational GNNs Cannot Learn $C_2$ Features for Planning**|Dillon Z. Chen et.al.|[2506.11721](http://arxiv.org/abs/2506.11721)|null|
+|**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710](http://arxiv.org/abs/2506.11710)|null|
+|**2025-06-13**|**Geometry-Aware Edge Pooling for Graph Neural Networks**|Katharina Limbeck et.al.|[2506.11700](http://arxiv.org/abs/2506.11700)|null|
+|**2025-06-13**|**KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity**|Yaning Jia et.al.|[2506.11611](http://arxiv.org/abs/2506.11611)|null|
+|**2025-06-13**|**SemanticST: Spatially Informed Semantic Graph Learning for1 Clustering, Integration, and Scalable Analysis of Spatial2 Transcriptomics**|Roxana Zahedi et.al.|[2506.11491](http://arxiv.org/abs/2506.11491)|null|
+|**2025-06-13**|**FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models**|Riddhiman Raut et.al.|[2506.11398](http://arxiv.org/abs/2506.11398)|null|
+|**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
+|**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
 
 <p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
