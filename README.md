@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,12 +32,22 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Deep Learning Surrogates for Real-Time Gas Emission Inversion**|Thomas Newman et.al.|[2506.14597](http://arxiv.org/abs/2506.14597)|null|
+|**2025-06-17**|**Complete Characterization for Adjustment in Summary Causal Graphs of Time Series**|Clément Yvernes et.al.|[2506.14534](http://arxiv.org/abs/2506.14534)|null|
+|**2025-06-17**|**An independent search for Jovian neutrinos using BOREXINO data**|Yuva Himanshu Pallam et.al.|[2506.14506](http://arxiv.org/abs/2506.14506)|null|
+|**2025-06-17**|**Leveraging External Factors in Household-Level Electrical Consumption Forecasting using Hypernetworks**|Fabien Bernier et.al.|[2506.14472](http://arxiv.org/abs/2506.14472)|null|
+|**2025-06-17**|**Detecting fast-variation pulsations in solar hard X-ray and radio emissions**|Dong Li et.al.|[2506.14433](http://arxiv.org/abs/2506.14433)|null|
+|**2025-06-17**|**A novel approach for converting spatio-temporal series into complex networks**|G. Cigdem Yalcin et.al.|[2506.14378](http://arxiv.org/abs/2506.14378)|null|
+|**2025-06-17**|**Enhancing Forecasting Accuracy in Dynamic Environments via PELT-Driven Drift Detection and Model Adaptation**|Nikhil Pawar et.al.|[2506.14133](http://arxiv.org/abs/2506.14133)|null|
+|**2025-06-17**|**Haptic-Based User Authentication for Tele-robotic System**|Rongyu Yu et.al.|[2506.14116](http://arxiv.org/abs/2506.14116)|null|
+|**2025-06-17**|**SKOLR: Structured Koopman Operator Linear RNN for Time-Series Forecasting**|Yitian Zhang et.al.|[2506.14113](http://arxiv.org/abs/2506.14113)|null|
+|**2025-06-17**|**Multi-Scale Finetuning for Encoder-based Time Series Foundation Models**|Zhongzheng Qiao et.al.|[2506.14087](http://arxiv.org/abs/2506.14087)|null|
 |**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|null|
 |**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
 |**2025-06-16**|**PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning**|Daniele Zambon et.al.|[2506.13652](http://arxiv.org/abs/2506.13652)|null|
@@ -74,12 +84,22 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|null|
+|**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529](http://arxiv.org/abs/2506.14529)|null|
+|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470](http://arxiv.org/abs/2506.14470)|null|
+|**2025-06-17**|**Can Large Language Models Improve Spectral Graph Neural Networks?**|Kangkang Lu et.al.|[2506.14220](http://arxiv.org/abs/2506.14220)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
+|**2025-06-17**|**CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs**|Tianming Zhang et.al.|[2506.14122](http://arxiv.org/abs/2506.14122)|null|
+|**2025-06-17**|**Evaluating Loss Functions for Graph Neural Networks: Towards Pretraining and Generalization**|Khushnood Abbas et.al.|[2506.14114](http://arxiv.org/abs/2506.14114)|null|
+|**2025-06-16**|**Quantum-Informed Contrastive Learning with Dynamic Mixup Augmentation for Class-Imbalanced Expert Systems**|Md Abrar Jahin et.al.|[2506.13987](http://arxiv.org/abs/2506.13987)|null|
+|**2025-06-16**|**Density-aware Walks for Coordinated Campaign Detection**|Atul Anand Gopalakrishnan et.al.|[2506.13912](http://arxiv.org/abs/2506.13912)|null|
+|**2025-06-16**|**Logical Expressiveness of Graph Neural Networks with Hierarchical Node Individualization**|Arie Soeteman et.al.|[2506.13911](http://arxiv.org/abs/2506.13911)|null|
 |**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
 |**2025-06-16**|**TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection**|Fuaing Niu et.al.|[2506.13343](http://arxiv.org/abs/2506.13343)|null|
 |**2025-06-16**|**Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**|Yuefei Lyu et.al.|[2506.13276](http://arxiv.org/abs/2506.13276)|null|
@@ -101,7 +121,7 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
