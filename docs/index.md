@@ -121,6 +121,21 @@ layout: default
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
 
+## Tensor Decomposition
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**DMRS-Based Uplink Channel Estimation for MU-MIMO Systems with Location-Specific SCSI Acquisition**|Jiawei Zhuang et.al.|[2506.11899](http://arxiv.org/abs/2506.11899)|null|
+|**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[2506.10567](http://arxiv.org/abs/2506.10567)|null|
+|**2025-06-10**|**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**|Javier Lopez-Piqueres et.al.|[2506.09105](http://arxiv.org/abs/2506.09105)|null|
+|**2025-06-10**|**sparseGeoHOPCA: A Geometric Solution to Sparse Higher-Order PCA Without Covariance Estimation**|Renjie Xu et.al.|[2506.08670](http://arxiv.org/abs/2506.08670)|null|
+|**2025-06-10**|**Graph signal aware decomposition of dynamic networks via latent graphs**|Bishwadeep Das et.al.|[2506.08519](http://arxiv.org/abs/2506.08519)|null|
+|**2025-06-09**|**Double Low-Rank 4D Tensor Decomposition for Circular RIS-Aided mmWave MIMO-NOMA System Channel Estimation in Mobility Scenarios**|Wanyuan Cai et.al.|[2506.07909](http://arxiv.org/abs/2506.07909)|null|
+|**2025-06-08**|**Joint Channel and Symbol Estimation for Communication Systems with Movable Antennas**|Josué V. de Araújo et.al.|[2506.07183](http://arxiv.org/abs/2506.07183)|null|
+|**2025-06-06**|**Global Convergence of Gradient EM for Over-Parameterized Gaussian Mixtures**|Mo Zhou et.al.|[2506.06584](http://arxiv.org/abs/2506.06584)|null|
+|**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
+|**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
