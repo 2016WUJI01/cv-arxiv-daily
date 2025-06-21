@@ -28,3 +28,5 @@ keywords:
         filters: ["Time Series", "Irregular Time Series", "Spatio Temporal", "Irregular Time Series"]
     "Graph Neural Networks":
         filters: ["Graph Neural Networks", "GNN"]
+    "Tensor Decomposition":
+        filters: ["Tensor Decomposition"]
