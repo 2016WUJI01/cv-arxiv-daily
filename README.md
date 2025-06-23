@@ -1,4 +1,4 @@
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Time Series
 
@@ -41,14 +41,14 @@
 |---|---|---|---|---|
 |**2025-06-18**|**Warping and Matching Subsequences Between Time Series**|Simiao Lin et.al.|[2506.15452](http://arxiv.org/abs/2506.15452)|null|
 |**2025-06-18**|**Synchronization of lasers with complex spatio-temporal dynamics**|Jules Mercadier et.al.|[2506.15351](http://arxiv.org/abs/2506.15351)|null|
-|**2025-06-17**|**Stable CDE Autoencoders with Acuity Regularization for Offline Reinforcement Learning in Sepsis Treatment**|Yue Gao et.al.|[2506.15019](http://arxiv.org/abs/2506.15019)|null|
+|**2025-06-17**|**Stable CDE Autoencoders with Acuity Regularization for Offline Reinforcement Learning in Sepsis Treatment**|Yue Gao et.al.|[2506.15019](http://arxiv.org/abs/2506.15019)|**[link](https://github.com/gaoyuetianc/rl_mimic_cde_stable)**|
 |**2025-06-17**|**Early Prediction of Multiple Sclerosis Disability Progression via Multimodal Foundation Model Benchmarks**|Maxime Usdin et.al.|[2506.14986](http://arxiv.org/abs/2506.14986)|null|
 |**2025-06-17**|**Missing data in non-stationary multivariate time series from digital studies in Psychiatry**|Xiaoxuan Cai et.al.|[2506.14946](http://arxiv.org/abs/2506.14946)|null|
 |**2025-06-17**|**Identifiability by common backdoor in summary causal graphs of time series**|Clément Yvernes et.al.|[2506.14862](http://arxiv.org/abs/2506.14862)|null|
 |**2025-06-17**|**Deep Learning Surrogates for Real-Time Gas Emission Inversion**|Thomas Newman et.al.|[2506.14597](http://arxiv.org/abs/2506.14597)|null|
 |**2025-06-17**|**Complete Characterization for Adjustment in Summary Causal Graphs of Time Series**|Clément Yvernes et.al.|[2506.14534](http://arxiv.org/abs/2506.14534)|null|
 |**2025-06-17**|**An independent search for Jovian neutrinos using BOREXINO data**|Yuva Himanshu Pallam et.al.|[2506.14506](http://arxiv.org/abs/2506.14506)|null|
-|**2025-06-17**|**Leveraging External Factors in Household-Level Electrical Consumption Forecasting using Hypernetworks**|Fabien Bernier et.al.|[2506.14472](http://arxiv.org/abs/2506.14472)|null|
+|**2025-06-17**|**Leveraging External Factors in Household-Level Electrical Consumption Forecasting using Hypernetworks**|Fabien Bernier et.al.|[2506.14472](http://arxiv.org/abs/2506.14472)|**[link](https://github.com/serval-uni-lu/hypernetworks-time-series)**|
 |**2025-06-17**|**Detecting fast-variation pulsations in solar hard X-ray and radio emissions**|Dong Li et.al.|[2506.14433](http://arxiv.org/abs/2506.14433)|null|
 |**2025-06-17**|**A novel approach for converting spatio-temporal series into complex networks**|G. Cigdem Yalcin et.al.|[2506.14378](http://arxiv.org/abs/2506.14378)|null|
 |**2025-06-17**|**Enhancing Forecasting Accuracy in Dynamic Environments via PELT-Driven Drift Detection and Model Adaptation**|Nikhil Pawar et.al.|[2506.14133](http://arxiv.org/abs/2506.14133)|null|
@@ -91,7 +91,7 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Graph Neural Networks
 
@@ -100,9 +100,9 @@
 |**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652](http://arxiv.org/abs/2506.15652)|null|
 |**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507](http://arxiv.org/abs/2506.15507)|null|
 |**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289](http://arxiv.org/abs/2506.15289)|null|
-|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|**[link](https://github.com/chymaera96/neuralsampleid)**|
+|**2025-06-20**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|**[link](https://github.com/chymaera96/neuralsampleid)**|
 |**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529](http://arxiv.org/abs/2506.14529)|null|
-|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470](http://arxiv.org/abs/2506.14470)|null|
+|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470](http://arxiv.org/abs/2506.14470)|**[link](https://github.com/zixianreid/semantic_graph_code_code_clone)**|
 |**2025-06-17**|**Can Large Language Models Improve Spectral Graph Neural Networks?**|Kangkang Lu et.al.|[2506.14220](http://arxiv.org/abs/2506.14220)|null|
 |**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
 |**2025-06-17**|**CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs**|Tianming Zhang et.al.|[2506.14122](http://arxiv.org/abs/2506.14122)|null|
@@ -131,7 +131,7 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Tensor Decomposition
 
@@ -148,7 +148,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
