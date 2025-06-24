@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**3DeepRep: 3D Deep Low-rank Tensor Representation for Hyperspectral Image Inpainting**|Yunshan Li et.al.|[2506.16735](http://arxiv.org/abs/2506.16735)|null|
 |**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
 |**2025-06-13**|**Hilbert subspace imprint: a new mechanism for non-thermalization**|Hui Yu et.al.|[2506.11922](http://arxiv.org/abs/2506.11922)|null|
 |**2025-06-13**|**FCA2: Frame Compression-Aware Autoencoder for Modular and Fast Compressed Video Super-Resolution**|Zhaoyang Wang et.al.|[2506.11545](http://arxiv.org/abs/2506.11545)|null|
@@ -33,12 +34,22 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186](http://arxiv.org/abs/2506.17186)|null|
+|**2025-06-20**|**Walking Fingerprinting Using Wrist Accelerometry During Activities of Daily Living in NHANES**|Lily Koffman et.al.|[2506.17160](http://arxiv.org/abs/2506.17160)|null|
+|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|null|
+|**2025-06-20**|**Closed-Loop Molecular Communication with Local and Global Degradation: Modeling and ISI Analysis**|Lukas Brand et.al.|[2506.17112](http://arxiv.org/abs/2506.17112)|null|
+|**2025-06-20**|**Efficient and faithful reconstruction of dynamical attractors using homogeneous differentiators**|Uros Sutulovic et.al.|[2506.17079](http://arxiv.org/abs/2506.17079)|null|
+|**2025-06-20**|**Flow-Based Non-stationary Temporal Regime Causal Structure Learning**|Abdellah Rahmani et.al.|[2506.17065](http://arxiv.org/abs/2506.17065)|null|
+|**2025-06-20**|**LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation**|Elizabeth Fons et.al.|[2506.17039](http://arxiv.org/abs/2506.17039)|null|
+|**2025-06-20**|**Bayesian Joint Model of Multi-Sensor and Failure Event Data for Multi-Mode Failure Prediction**|Sina Aghaee Dabaghan Fard et.al.|[2506.17036](http://arxiv.org/abs/2506.17036)|null|
+|**2025-06-20**|**Autoregressive Hypergraph**|Xianghe Zhu et.al.|[2506.16966](http://arxiv.org/abs/2506.16966)|null|
+|**2025-06-20**|**Anomaly Detection in Event-triggered Traffic Time Series via Similarity Learning**|Shaoyu Dou et.al.|[2506.16855](http://arxiv.org/abs/2506.16855)|null|
 |**2025-06-18**|**Warping and Matching Subsequences Between Time Series**|Simiao Lin et.al.|[2506.15452](http://arxiv.org/abs/2506.15452)|null|
 |**2025-06-18**|**Synchronization of lasers with complex spatio-temporal dynamics**|Jules Mercadier et.al.|[2506.15351](http://arxiv.org/abs/2506.15351)|null|
 |**2025-06-17**|**Stable CDE Autoencoders with Acuity Regularization for Offline Reinforcement Learning in Sepsis Treatment**|Yue Gao et.al.|[2506.15019](http://arxiv.org/abs/2506.15019)|**[link](https://github.com/gaoyuetianc/rl_mimic_cde_stable)**|
@@ -91,12 +102,20 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|null|
+|**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790](http://arxiv.org/abs/2506.16790)|null|
+|**2025-06-19**|**Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures**|Vijay Prakash Dwivedi et.al.|[2506.16654](http://arxiv.org/abs/2506.16654)|null|
+|**2025-06-19**|**SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics**|Siddharth Viswanath et.al.|[2506.16602](http://arxiv.org/abs/2506.16602)|null|
+|**2025-06-19**|**Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction**|Ana Kostovska et.al.|[2506.16144](http://arxiv.org/abs/2506.16144)|null|
+|**2025-06-19**|**Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification**|Langzhang Liang et.al.|[2506.16110](http://arxiv.org/abs/2506.16110)|null|
+|**2025-06-19**|**Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials**|Minseok Moon et.al.|[2506.15934](http://arxiv.org/abs/2506.15934)|null|
+|**2025-06-18**|**KG-FGNN: Knowledge-guided GNN Foundation Model for Fertilisation-oriented Soil GHG Flux Prediction**|Yu Zhang et.al.|[2506.15896](http://arxiv.org/abs/2506.15896)|null|
 |**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652](http://arxiv.org/abs/2506.15652)|null|
 |**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507](http://arxiv.org/abs/2506.15507)|null|
 |**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289](http://arxiv.org/abs/2506.15289)|null|
@@ -131,12 +150,15 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Tensor Decomposition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Identifiability of Deep Polynomial Neural Networks**|Konstantin Usevich et.al.|[2506.17093](http://arxiv.org/abs/2506.17093)|null|
+|**2025-06-20**|**Bayesian Semiparametric Orthogonal Tucker Factorized Mixed Models for Multi-dimensional Longitudinal Functional Data**|Arkaprava Roy et.al.|[2506.16668](http://arxiv.org/abs/2506.16668)|null|
+|**2025-06-19**|**A Scalable Factorization Approach for High-Order Structured Tensor Recovery**|Zhen Qin et.al.|[2506.16032](http://arxiv.org/abs/2506.16032)|null|
 |**2025-06-13**|**DMRS-Based Uplink Channel Estimation for MU-MIMO Systems with Location-Specific SCSI Acquisition**|Jiawei Zhuang et.al.|[2506.11899](http://arxiv.org/abs/2506.11899)|null|
 |**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[2506.10567](http://arxiv.org/abs/2506.10567)|null|
 |**2025-06-10**|**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**|Javier Lopez-Piqueres et.al.|[2506.09105](http://arxiv.org/abs/2506.09105)|null|
@@ -148,7 +170,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
