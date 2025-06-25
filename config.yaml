@@ -25,7 +25,7 @@ keywords:
     "HSI":
         filters: ["HSI", "Hyperspectral image"]
     "Time Series":
-        filters: ["Time Series", "Irregular Time Series", "Spatio Temporal", "Irregular Time Series"]
+        filters: ["Time Series", "Irregular Time Series", "Spatio Temporal", "Irregular Time Series", "Indian Pines", "Houston", "Pavia", "WHU-Hi", "Salinas"]
     "Graph Neural Networks":
         filters: ["Graph Neural Networks", "GNN"]
     "Tensor Decomposition":
