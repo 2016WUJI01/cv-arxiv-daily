@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
 |**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[2506.18682](http://arxiv.org/abs/2506.18682)|null|
 |**2025-06-21**|**LoLA-SpecViT: Local Attention SwiGLU Vision Transformer with LoRA for Hyperspectral Imaging**|Fadi Abdeladhim Zidi et.al.|[2506.17759](http://arxiv.org/abs/2506.17759)|null|
 |**2025-06-20**|**FINCH EYE: The Optical and Optomechanical Design of a GRISM-based SWIR Hyperspectral Imaging Payload for a 3U CubeSat**|Iliya Shofman et.al.|[2506.17480](http://arxiv.org/abs/2506.17480)|null|
@@ -36,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-24**|**The Shape of Consumer Behavior: A Symbolic and Topological Analysis of Time Series**|Pola Bereta et.al.|[2506.19759](http://arxiv.org/abs/2506.19759)|null|
+|**2025-06-24**|**Hierarchical Time Series Forecasting Via Latent Mean Encoding**|Alessandro Salatiello et.al.|[2506.19633](http://arxiv.org/abs/2506.19633)|null|
+|**2025-06-24**|**Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.|[2506.19591](http://arxiv.org/abs/2506.19591)|null|
+|**2025-06-24**|**SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images**|Gencer Sumbul et.al.|[2506.19585](http://arxiv.org/abs/2506.19585)|null|
+|**2025-06-24**|**Towards an Introspective Dynamic Model of Globally Distributed Computing Infrastructures**|Ozgur O. Kilic et.al.|[2506.19578](http://arxiv.org/abs/2506.19578)|null|
+|**2025-06-24**|**FAF: A Feature-Adaptive Framework for Few-Shot Time Series Forecasting**|Pengpeng Ouyang et.al.|[2506.19567](http://arxiv.org/abs/2506.19567)|null|
+|**2025-06-24**|**EvDetMAV: Generalized MAV Detection from Moving Event Cameras**|Yin Zhang et.al.|[2506.19416](http://arxiv.org/abs/2506.19416)|null|
+|**2025-06-24**|**ZK-SERIES: Privacy-Preserving Authentication using Temporal Biometric Data**|Daniel Reijsbergen et.al.|[2506.19393](http://arxiv.org/abs/2506.19393)|null|
+|**2025-06-24**|**Contrastive Cross-Modal Learning for Infusing Chest X-ray Knowledge into ECGs**|Vineet Punyamoorty et.al.|[2506.19329](http://arxiv.org/abs/2506.19329)|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-23**|**The Within-Orbit Adaptive Leapfrog No-U-Turn Sampler**|Nawaf Bou-Rabee et.al.|[2506.18746](http://arxiv.org/abs/2506.18746)|null|
@@ -112,6 +123,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks**|Nathan Maurer et.al.|[2506.19703](http://arxiv.org/abs/2506.19703)|null|
+|**2025-06-24**|**Higher-Order Graph Databases**|Maciej Besta et.al.|[2506.19661](http://arxiv.org/abs/2506.19661)|null|
+|**2025-06-24**|**Fast and Distributed Equivariant Graph Neural Networks by Virtual Node Learning**|Yuelin Zhang et.al.|[2506.19482](http://arxiv.org/abs/2506.19482)|null|
+|**2025-06-24**|**Efficient Extreme Operating Condition Search for Online Relay Setting Calculation in Renewable Power Systems Based on Parallel Graph Neural Network**|Yan Li et.al.|[2506.19289](http://arxiv.org/abs/2506.19289)|null|
+|**2025-06-24**|**A Batch-Insensitive Dynamic GNN Approach to Address Temporal Discontinuity in Graph Streams**|Yang Zhou et.al.|[2506.19282](http://arxiv.org/abs/2506.19282)|null|
+|**2025-06-23**|**Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning**|Hanshuo Wu et.al.|[2506.19023](http://arxiv.org/abs/2506.19023)|null|
 |**2025-06-23**|**Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression**|Yigit Berkay Uslu et.al.|[2506.18748](http://arxiv.org/abs/2506.18748)|null|
 |**2025-06-23**|**SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding**|Yuchang Zhu et.al.|[2506.18696](http://arxiv.org/abs/2506.18696)|null|
 |**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525](http://arxiv.org/abs/2506.18525)|null|
@@ -168,6 +185,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Study of entanglement in Ne, Mg, and Si isotopic chains**|Rohit M. Shinde et.al.|[2506.19437](http://arxiv.org/abs/2506.19437)|null|
+|**2025-06-24**|**Towards automated generation of fast and accurate algorithms for recursive matrix multiplication**|Jean-Guillaume Dumas et.al.|[2506.19405](http://arxiv.org/abs/2506.19405)|null|
+|**2025-06-24**|**Block Tensor Decomposition: A dual grid scheme with formal O(N3) for THC decomposition of molecular systems**|Yueyang Zhang et.al.|[2506.19392](http://arxiv.org/abs/2506.19392)|null|
+|**2025-06-23**|**Model Reduction of Homogeneous Polynomial Dynamical Systems via Tensor Decomposition**|Xin Mao et.al.|[2506.19165](http://arxiv.org/abs/2506.19165)|null|
+|**2025-06-23**|**Orthogonal eigenvectors and singular vectors of tensors**|Alvaro Ribot et.al.|[2506.19009](http://arxiv.org/abs/2506.19009)|null|
 |**2025-06-22**|**Cooperative Bistatic ISAC Systems for Low-Altitude Economy**|Zhenkun Zhang et.al.|[2506.18067](http://arxiv.org/abs/2506.18067)|null|
 |**2025-06-20**|**Identifiability of Deep Polynomial Neural Networks**|Konstantin Usevich et.al.|[2506.17093](http://arxiv.org/abs/2506.17093)|null|
 |**2025-06-20**|**Bayesian Semiparametric Orthogonal Tucker Factorized Mixed Models for Multi-dimensional Longitudinal Functional Data**|Arkaprava Roy et.al.|[2506.16668](http://arxiv.org/abs/2506.16668)|null|
