@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
@@ -44,7 +44,7 @@ layout: default
 |**2025-06-24**|**SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images**|Gencer Sumbul et.al.|[2506.19585](http://arxiv.org/abs/2506.19585)|null|
 |**2025-06-24**|**Towards an Introspective Dynamic Model of Globally Distributed Computing Infrastructures**|Ozgur O. Kilic et.al.|[2506.19578](http://arxiv.org/abs/2506.19578)|null|
 |**2025-06-24**|**FAF: A Feature-Adaptive Framework for Few-Shot Time Series Forecasting**|Pengpeng Ouyang et.al.|[2506.19567](http://arxiv.org/abs/2506.19567)|null|
-|**2025-06-24**|**EvDetMAV: Generalized MAV Detection from Moving Event Cameras**|Yin Zhang et.al.|[2506.19416](http://arxiv.org/abs/2506.19416)|null|
+|**2025-06-25**|**EvDetMAV: Generalized MAV Detection from Moving Event Cameras**|Yin Zhang et.al.|[2506.19416](http://arxiv.org/abs/2506.19416)|null|
 |**2025-06-24**|**ZK-SERIES: Privacy-Preserving Authentication using Temporal Biometric Data**|Daniel Reijsbergen et.al.|[2506.19393](http://arxiv.org/abs/2506.19393)|null|
 |**2025-06-24**|**Contrastive Cross-Modal Learning for Infusing Chest X-ray Knowledge into ECGs**|Vineet Punyamoorty et.al.|[2506.19329](http://arxiv.org/abs/2506.19329)|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
