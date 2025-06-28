@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.06.27
+## Updated on 2025.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Distributed Cross-Channel Hierarchical Aggregation for Foundation Models**|Aristeidis Tsaris et.al.|[2506.21411](http://arxiv.org/abs/2506.21411)|null|
+|**2025-06-26**|**Tree-based Semantic Losses: Application to Sparsely-supervised Large Multi-class Hyperspectral Segmentation**|Junwen Wang et.al.|[2506.21150](http://arxiv.org/abs/2506.21150)|null|
 |**2025-06-25**|**Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**|Kunjing Yang et.al.|[2506.20293](http://arxiv.org/abs/2506.20293)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
 |**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[2506.18682](http://arxiv.org/abs/2506.18682)|null|
@@ -38,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**Process mining-driven modeling and simulation to enhance fault diagnosis in cyber-physical systems**|Francesco Vitale et.al.|[2506.21502](http://arxiv.org/abs/2506.21502)|null|
+|**2025-06-26**|**Distributed Cross-Channel Hierarchical Aggregation for Foundation Models**|Aristeidis Tsaris et.al.|[2506.21411](http://arxiv.org/abs/2506.21411)|null|
+|**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324](http://arxiv.org/abs/2506.21324)|null|
+|**2025-06-26**|**Surrogate normal-forms for the numerical bifurcation and stability analysis of navier-stokes flows via machine learning**|Alessandro Della Pia et.al.|[2506.21275](http://arxiv.org/abs/2506.21275)|null|
+|**2025-06-26**|**Evidence of the Earth's inner radiation belts during the low Solar and geomagnetic activity obtained with the STEP-F instrument**|O. V. Dudnik et.al.|[2506.21218](http://arxiv.org/abs/2506.21218)|null|
+|**2025-06-26**|**On Minimizing Wiggle in Stacked Area Charts**|Alexander Dobler et.al.|[2506.21175](http://arxiv.org/abs/2506.21175)|null|
+|**2025-06-26**|**Prokhorov Metric Convergence of the Partial Sum Process for Reconstructed Functional Data**|Tim Kutta et.al.|[2506.21172](http://arxiv.org/abs/2506.21172)|null|
+|**2025-06-26**|**Simultaneous estimation of the effective reproduction number and the time series of daily infections: Application to Covid-19**|Hans R. Künsch et.al.|[2506.21027](http://arxiv.org/abs/2506.21027)|null|
+|**2025-06-26**|**Disentangling network dependence among multiple variables**|Zhejia Dong et.al.|[2506.20974](http://arxiv.org/abs/2506.20974)|null|
 |**2025-06-25**|**Benchmarking Unsupervised Strategies for Anomaly Detection in Multivariate Time Series**|Laura Boggia et.al.|[2506.20574](http://arxiv.org/abs/2506.20574)|null|
 |**2025-06-25**|**WattsOnAI: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads**|Hongzhen Huang et.al.|[2506.20535](http://arxiv.org/abs/2506.20535)|null|
 |**2025-06-25**|**Off-Policy Evaluation and Learning for the Future under Non-Stationarity**|Tatsuhiro Shimizu et.al.|[2506.20417](http://arxiv.org/abs/2506.20417)|null|
@@ -134,6 +146,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414](http://arxiv.org/abs/2506.21414)|null|
+|**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382](http://arxiv.org/abs/2506.21382)|null|
+|**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368](http://arxiv.org/abs/2506.21368)|null|
+|**2025-06-26**|**Hardware-Aware Quantum Kernel Design Based on Graph Neural Networks**|Yuxiang Liu et.al.|[2506.21161](http://arxiv.org/abs/2506.21161)|null|
+|**2025-06-25**|**Demystifying Distributed Training of Graph Neural Networks for Link Prediction**|Xin Huang et.al.|[2506.20818](http://arxiv.org/abs/2506.20818)|null|
+|**2025-06-25**|**Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis**|Zhonghao Zhan et.al.|[2506.20806](http://arxiv.org/abs/2506.20806)|null|
 |**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
 |**2025-06-25**|**Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments**|Charles Shaw et.al.|[2506.20499](http://arxiv.org/abs/2506.20499)|null|
 |**2025-06-25**|**Self-Supervised Graph Learning via Spectral Bootstrapping and Laplacian-Based Augmentations**|Lorenzo Bini et.al.|[2506.20362](http://arxiv.org/abs/2506.20362)|null|
