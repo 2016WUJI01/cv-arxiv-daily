@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer**|Yuansheng Li et.al.|[2506.21880](http://arxiv.org/abs/2506.21880)|null|
 |**2025-06-26**|**Distributed Cross-Channel Hierarchical Aggregation for Foundation Models**|Aristeidis Tsaris et.al.|[2506.21411](http://arxiv.org/abs/2506.21411)|null|
 |**2025-06-26**|**Tree-based Semantic Losses: Application to Sparsely-supervised Large Multi-class Hyperspectral Segmentation**|Junwen Wang et.al.|[2506.21150](http://arxiv.org/abs/2506.21150)|null|
 |**2025-06-25**|**Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**|Kunjing Yang et.al.|[2506.20293](http://arxiv.org/abs/2506.20293)|null|
@@ -40,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Over the Stability Space of a Multivariate Time Series**|Roberto Vásquez-Martínez et.al.|[2506.22407](http://arxiv.org/abs/2506.22407)|null|
+|**2025-06-27**|**Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**|YongKyung Oh et.al.|[2506.22393](http://arxiv.org/abs/2506.22393)|null|
+|**2025-06-27**|**Robust quantum reservoir computers for forecasting chaotic dynamics: generalized synchronization and stability**|Osama Ahmed et.al.|[2506.22335](http://arxiv.org/abs/2506.22335)|null|
+|**2025-06-27**|**Linking climate and dengue in the Philippines using a two-stage Bayesian spatio-temporal model**|Stephen Jun Villejo et.al.|[2506.22334](http://arxiv.org/abs/2506.22334)|null|
+|**2025-06-27**|**The evasion of tipping: pattern formation near a Turing-fold bifurcation**|Dock Staal et.al.|[2506.22251](http://arxiv.org/abs/2506.22251)|null|
+|**2025-06-27**|**An Efficient Class of Bayesian Generalized Quadratic Nonlinear Dynamic Models with Application to Birth Rate Monitoring**|Madelyn Clinch et.al.|[2506.22188](http://arxiv.org/abs/2506.22188)|null|
+|**2025-06-27**|**Updated measurement of $CP$ violation and polarisation in $B^0_s \rightarrow J/ψ\overline{K}{}^{*}\kern-1pt(892)^{0}$ decays**|LHCb collaboration et.al.|[2506.22090](http://arxiv.org/abs/2506.22090)|null|
+|**2025-06-27**|**HOLISMOKES XVIII: Detecting strongly lensed SNe Ia from time series of multi-band LSST-like imaging data**|Satadru Bag et.al.|[2506.22076](http://arxiv.org/abs/2506.22076)|null|
+|**2025-06-27**|**UniCA: Adapting Time Series Foundation Model to General Covariate-Aware Forecasting**|Lu Han et.al.|[2506.22039](http://arxiv.org/abs/2506.22039)|null|
+|**2025-06-27**|**GKNet: Graph Kalman Filtering and Model Inference via Model-based Deep Learning**|Mohammad Sabbaqi et.al.|[2506.22004](http://arxiv.org/abs/2506.22004)|null|
 |**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
 |**2025-06-26**|**Process mining-driven modeling and simulation to enhance fault diagnosis in cyber-physical systems**|Francesco Vitale et.al.|[2506.21502](http://arxiv.org/abs/2506.21502)|null|
 |**2025-06-26**|**Distributed Cross-Channel Hierarchical Aggregation for Foundation Models**|Aristeidis Tsaris et.al.|[2506.21411](http://arxiv.org/abs/2506.21411)|null|
@@ -146,6 +157,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks**|Tao Liu et.al.|[2506.22299](http://arxiv.org/abs/2506.22299)|null|
+|**2025-06-27**|**The Missing Link: Joint Legal Citation Prediction using Heterogeneous Graph Enrichment**|Lorenz Wendlinger et.al.|[2506.22165](http://arxiv.org/abs/2506.22165)|null|
+|**2025-06-27**|**Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control**|Fenglan Wang et.al.|[2506.22117](http://arxiv.org/abs/2506.22117)|null|
+|**2025-06-27**|**Transformers are Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2506.22084](http://arxiv.org/abs/2506.22084)|null|
+|**2025-06-27**|**Learning-Based Hybrid Neural Receiver for 6G-V2X Communications**|Osama Saleem et.al.|[2506.21983](http://arxiv.org/abs/2506.21983)|null|
+|**2025-06-26**|**Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data**|Massimiliano Lupo Pasini et.al.|[2506.21788](http://arxiv.org/abs/2506.21788)|null|
+|**2025-06-26**|**Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**|Li Zhou et.al.|[2506.21682](http://arxiv.org/abs/2506.21682)|null|
 |**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414](http://arxiv.org/abs/2506.21414)|null|
 |**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382](http://arxiv.org/abs/2506.21382)|null|
 |**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368](http://arxiv.org/abs/2506.21368)|null|
@@ -220,6 +238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Score-Based Model for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2506.22295](http://arxiv.org/abs/2506.22295)|null|
+|**2025-06-27**|**Scalable inference of large-scale random kronecker graphs via tensor decomposition and Einstein summation**|Sanaa Khobizy et.al.|[2506.22292](http://arxiv.org/abs/2506.22292)|null|
 |**2025-06-24**|**A parametric tensor ROM for the shallow water dam break problem**|Md Rezwan Bin Mizan et.al.|[2506.20007](http://arxiv.org/abs/2506.20007)|null|
 |**2025-06-24**|**Study of entanglement in Ne, Mg, and Si isotopic chains**|Rohit M. Shinde et.al.|[2506.19437](http://arxiv.org/abs/2506.19437)|null|
 |**2025-06-24**|**Towards automated generation of fast and accurate algorithms for recursive matrix multiplication**|Jean-Guillaume Dumas et.al.|[2506.19405](http://arxiv.org/abs/2506.19405)|null|
