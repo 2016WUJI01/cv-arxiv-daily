@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.04
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Cross-domain Hyperspectral Image Classification based on Bi-directional Domain Adaptation**|Yuxiang Zhang et.al.|[2507.02268](http://arxiv.org/abs/2507.02268)|null|
 |**2025-07-02**|**Modulate and Reconstruct: Learning Hyperspectral Imaging from Misaligned Smartphone Views**|Daniil Reutsky et.al.|[2507.01835](http://arxiv.org/abs/2507.01835)|null|
 |**2025-07-02**|**Physics-informed Ground Reaction Dynamics from Human Motion Capture**|Cuong Le et.al.|[2507.01340](http://arxiv.org/abs/2507.01340)|null|
 |**2025-06-28**|**A Novel Adaptive Low-Rank Matrix Approximation Method for Image Compression and Reconstruction**|Weiwei Xu et.al.|[2506.22713](http://arxiv.org/abs/2506.22713)|null|
@@ -44,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
+|**2025-07-03**|**Measuring the muon content of inclined air showers using AERA and the water-Cherenkov detectors of the Pierre Auger Observatory**|The Pierre Auger Collaboration et.al.|[2507.02558](http://arxiv.org/abs/2507.02558)|null|
+|**2025-07-03**|**DUST: A Duality-Based Pruning Method For Exact Multiple Change-Point Detection**|Vincent Runge et.al.|[2507.02467](http://arxiv.org/abs/2507.02467)|null|
+|**2025-07-03**|**Network structural change point detection and reconstruction for balanced neuronal networks**|Kai Chen et.al.|[2507.02450](http://arxiv.org/abs/2507.02450)|null|
+|**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398](http://arxiv.org/abs/2507.02398)|null|
+|**2025-07-03**|**DeltaSHAP: Explaining Prediction Evolutions in Online Patient Monitoring with Shapley Values**|Changhun Kim et.al.|[2507.02342](http://arxiv.org/abs/2507.02342)|null|
+|**2025-07-03**|**CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MR**|Wangbin Ding et.al.|[2507.02289](http://arxiv.org/abs/2507.02289)|null|
+|**2025-07-02**|**Observation of orbitally excited $B_{c}^{+}$ states**|LHCb collaboration et.al.|[2507.02149](http://arxiv.org/abs/2507.02149)|null|
+|**2025-07-02**|**Study of $B_{c}(1P)^{+}$ states in the $B_{c}^{+} γ$ mass spectrum**|LHCb collaboration et.al.|[2507.02142](http://arxiv.org/abs/2507.02142)|null|
+|**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
 |**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
 |**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875](http://arxiv.org/abs/2507.01875)|null|
 |**2025-07-02**|**Modeling the Deterioration of Pavement Skid Resistance and Surface Texture After Preventive Maintenance**|Lu Gao et.al.|[2507.01842](http://arxiv.org/abs/2507.01842)|null|
@@ -180,6 +191,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes**|Jiaxing Wang et.al.|[2507.02690](http://arxiv.org/abs/2507.02690)|null|
+|**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427](http://arxiv.org/abs/2507.02427)|null|
+|**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409](http://arxiv.org/abs/2507.02409)|null|
+|**2025-07-02**|**Generating Large Semi-Synthetic Graphs of Any Size**|Rodrigo Tuna et.al.|[2507.02166](http://arxiv.org/abs/2507.02166)|null|
+|**2025-07-02**|**Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks**|Tuo Wang et.al.|[2507.02151](http://arxiv.org/abs/2507.02151)|null|
+|**2025-07-02**|**Enhancing Power Flow Estimation with Topology-Aware Gated Graph Neural Networks**|Shrenik Jadhav et.al.|[2507.02078](http://arxiv.org/abs/2507.02078)|null|
 |**2025-07-02**|**Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks**|Yukun Ma et.al.|[2507.01876](http://arxiv.org/abs/2507.01876)|null|
 |**2025-07-02**|**Direct Vertex Reconstruction of $Λ$ Baryons from Hits in CLAS12 using Graph Neural Networks**|Keegan Menkce et.al.|[2507.01868](http://arxiv.org/abs/2507.01868)|null|
 |**2025-07-02**|**MILP-SAT-GNN: Yet Another Neural SAT Solver**|Franco Alberto Cardillo et.al.|[2507.01825](http://arxiv.org/abs/2507.01825)|null|
