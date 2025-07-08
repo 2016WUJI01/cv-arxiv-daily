@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,7 +47,7 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Time Series
 
@@ -60,8 +60,8 @@
 |**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398](http://arxiv.org/abs/2507.02398)|null|
 |**2025-07-03**|**DeltaSHAP: Explaining Prediction Evolutions in Online Patient Monitoring with Shapley Values**|Changhun Kim et.al.|[2507.02342](http://arxiv.org/abs/2507.02342)|null|
 |**2025-07-03**|**CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MR**|Wangbin Ding et.al.|[2507.02289](http://arxiv.org/abs/2507.02289)|null|
-|**2025-07-02**|**Observation of orbitally excited $B_{c}^{+}$ states**|LHCb collaboration et.al.|[2507.02149](http://arxiv.org/abs/2507.02149)|null|
-|**2025-07-02**|**Study of $B_{c}(1P)^{+}$ states in the $B_{c}^{+} γ$ mass spectrum**|LHCb collaboration et.al.|[2507.02142](http://arxiv.org/abs/2507.02142)|null|
+|**2025-07-04**|**Observation of orbitally excited $B_{c}^{+}$ states**|LHCb collaboration et.al.|[2507.02149](http://arxiv.org/abs/2507.02149)|null|
+|**2025-07-04**|**Study of $B_{c}(1P)^{+}$ states in the $B_{c}^{+} γ$ mass spectrum**|LHCb collaboration et.al.|[2507.02142](http://arxiv.org/abs/2507.02142)|null|
 |**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
 |**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
 |**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875](http://arxiv.org/abs/2507.01875)|null|
@@ -195,7 +195,7 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Graph Neural Networks
 
@@ -304,7 +304,7 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Tensor Decomposition
 
@@ -335,7 +335,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

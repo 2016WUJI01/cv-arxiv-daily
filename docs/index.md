@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
@@ -52,8 +52,8 @@ layout: default
 |**2025-07-03**|**Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection**|Taehoon Kim et.al.|[2507.02398](http://arxiv.org/abs/2507.02398)|null|
 |**2025-07-03**|**DeltaSHAP: Explaining Prediction Evolutions in Online Patient Monitoring with Shapley Values**|Changhun Kim et.al.|[2507.02342](http://arxiv.org/abs/2507.02342)|null|
 |**2025-07-03**|**CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MR**|Wangbin Ding et.al.|[2507.02289](http://arxiv.org/abs/2507.02289)|null|
-|**2025-07-02**|**Observation of orbitally excited $B_{c}^{+}$ states**|LHCb collaboration et.al.|[2507.02149](http://arxiv.org/abs/2507.02149)|null|
-|**2025-07-02**|**Study of $B_{c}(1P)^{+}$ states in the $B_{c}^{+} γ$ mass spectrum**|LHCb collaboration et.al.|[2507.02142](http://arxiv.org/abs/2507.02142)|null|
+|**2025-07-04**|**Observation of orbitally excited $B_{c}^{+}$ states**|LHCb collaboration et.al.|[2507.02149](http://arxiv.org/abs/2507.02149)|null|
+|**2025-07-04**|**Study of $B_{c}(1P)^{+}$ states in the $B_{c}^{+} γ$ mass spectrum**|LHCb collaboration et.al.|[2507.02142](http://arxiv.org/abs/2507.02142)|null|
 |**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
 |**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
 |**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875](http://arxiv.org/abs/2507.01875)|null|
