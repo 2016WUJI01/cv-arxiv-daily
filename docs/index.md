@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**A Deep Unfolding Framework for Diffractive Snapshot Spectral Imaging**|Zhengyue Zhuge et.al.|[2507.04622](http://arxiv.org/abs/2507.04622)|null|
+|**2025-07-06**|**Dynamic Frequency Feature Fusion Network for Multi-Source Remote Sensing Data Classification**|Yikang Zhao et.al.|[2507.04510](http://arxiv.org/abs/2507.04510)|null|
+|**2025-07-06**|**SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights**|Zhenbo Xu et.al.|[2507.04412](http://arxiv.org/abs/2507.04412)|null|
+|**2025-07-06**|**MVNet: Hyperspectral Remote Sensing Image Classification Based on Hybrid Mamba-Transformer Vision Backbone Architecture**|Guandong Li et.al.|[2507.04409](http://arxiv.org/abs/2507.04409)|null|
+|**2025-07-04**|**Cancer cytoplasm segmentation in hyperspectral cell image with data augmentation**|Rebeka Sultana et.al.|[2507.03325](http://arxiv.org/abs/2507.03325)|null|
+|**2025-07-03**|**AI-driven Web Application for Early Detection of Sudden Death Syndrome (SDS) in Soybean Leaves Using Hyperspectral Images and Genetic Algorithm**|Pappu Kumar Yadav et.al.|[2507.03198](http://arxiv.org/abs/2507.03198)|null|
 |**2025-07-03**|**Cross-domain Hyperspectral Image Classification based on Bi-directional Domain Adaptation**|Yuxiang Zhang et.al.|[2507.02268](http://arxiv.org/abs/2507.02268)|null|
 |**2025-07-02**|**Modulate and Reconstruct: Learning Hyperspectral Imaging from Misaligned Smartphone Views**|Daniil Reutsky et.al.|[2507.01835](http://arxiv.org/abs/2507.01835)|null|
 |**2025-07-02**|**Physics-informed Ground Reaction Dynamics from Human Motion Capture**|Cuong Le et.al.|[2507.01340](http://arxiv.org/abs/2507.01340)|null|
@@ -45,6 +51,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238](http://arxiv.org/abs/2507.05238)|null|
+|**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
+|**2025-07-07**|**Practical considerations for Gaussian Process modeling for causal inference quasi-experimental studies with panel data**|Sofia L. Vega et.al.|[2507.05128](http://arxiv.org/abs/2507.05128)|null|
+|**2025-07-07**|**Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph**|Ferdinand Mütsch et.al.|[2507.05086](http://arxiv.org/abs/2507.05086)|null|
+|**2025-07-07**|**Monitoring for a Phase Transition in a Time Series of Wigner Matrices**|Nina Dörnemann et.al.|[2507.04983](http://arxiv.org/abs/2507.04983)|null|
+|**2025-07-07**|**A Novel Approach for Estimating Positive Lyapunov Exponents in One-Dimensional Chaotic Time Series Using Machine Learning**|A. Velichko et.al.|[2507.04868](http://arxiv.org/abs/2507.04868)|null|
+|**2025-07-07**|**Experimental observation of the spatio-temporal dynamics of breather gases in a recirculating fiber loop**|François Copie et.al.|[2507.04787](http://arxiv.org/abs/2507.04787)|null|
+|**2025-07-07**|**DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification**|Zhipeng Liu et.al.|[2507.04600](http://arxiv.org/abs/2507.04600)|null|
+|**2025-07-06**|**DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting**|Bing Fan et.al.|[2507.04381](http://arxiv.org/abs/2507.04381)|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
 |**2025-07-03**|**Measuring the muon content of inclined air showers using AERA and the water-Cherenkov detectors of the Pierre Auger Observatory**|The Pierre Auger Collaboration et.al.|[2507.02558](http://arxiv.org/abs/2507.02558)|null|
 |**2025-07-03**|**DUST: A Duality-Based Pruning Method For Exact Multiple Change-Point Detection**|Vincent Runge et.al.|[2507.02467](http://arxiv.org/abs/2507.02467)|null|
@@ -191,6 +207,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph**|Ferdinand Mütsch et.al.|[2507.05086](http://arxiv.org/abs/2507.05086)|null|
+|**2025-07-07**|**Replacing detector simulation with heterogeneous GNNs in flavour physics analyses**|Guillermo Hijano et.al.|[2507.05069](http://arxiv.org/abs/2507.05069)|null|
+|**2025-07-07**|**Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation**|Jinpeng Chen et.al.|[2507.04623](http://arxiv.org/abs/2507.04623)|null|
+|**2025-07-05**|**Graph Neural Networks as a Substitute for Transformers in Single-Cell Transcriptomics**|Jiaxin Qi et.al.|[2507.04125](http://arxiv.org/abs/2507.04125)|null|
+|**2025-07-05**|**Commute Networks as a Signature of Urban Socioeconomic Performance: Evaluating Mobility Structures with Deep Learning Models**|Devashish Khulbe et.al.|[2507.04027](http://arxiv.org/abs/2507.04027)|null|
+|**2025-07-05**|**Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs**|Thanh Hoang-Minh et.al.|[2507.03947](http://arxiv.org/abs/2507.03947)|null|
+|**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920](http://arxiv.org/abs/2507.03920)|null|
+|**2025-07-05**|**OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems**|Beom Seok Kang et.al.|[2507.03853](http://arxiv.org/abs/2507.03853)|null|
+|**2025-07-04**|**Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction**|Manasa Kaniselvan et.al.|[2507.03840](http://arxiv.org/abs/2507.03840)|null|
+|**2025-07-04**|**Effective Capacitance Modeling Using Graph Neural Networks**|Eren Dogan et.al.|[2507.03787](http://arxiv.org/abs/2507.03787)|null|
 |**2025-07-03**|**RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes**|Jiaxing Wang et.al.|[2507.02690](http://arxiv.org/abs/2507.02690)|null|
 |**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427](http://arxiv.org/abs/2507.02427)|null|
 |**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409](http://arxiv.org/abs/2507.02409)|null|
@@ -298,6 +324,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Normalized Iterative Hard Thresholding for Tensor Recovery**|Li Li et.al.|[2507.04228](http://arxiv.org/abs/2507.04228)|null|
+|**2025-06-30**|**Flow-Through Tensors: A Unified Computational Graph Architecture for Multi-Layer Transportation Network Optimization**|Xuesong et.al.|[2507.02961](http://arxiv.org/abs/2507.02961)|null|
 |**2025-07-01**|**Tensor Decomposition Networks for Fast Machine Learning Interatomic Potential Computations**|Yuchao Lin et.al.|[2507.01131](http://arxiv.org/abs/2507.01131)|null|
 |**2025-06-27**|**Efficient Tensor Decomposition via Moment Matrix Extension**|Bobby Shi et.al.|[2506.22564](http://arxiv.org/abs/2506.22564)|null|
 |**2025-06-27**|**Score-Based Model for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2506.22295](http://arxiv.org/abs/2506.22295)|null|
