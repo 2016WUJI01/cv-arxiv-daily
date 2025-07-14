@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-10**|**Mid-IR hyperspectral imaging with undetected photons**|Marlon Placke et.al.|[2507.07861](http://arxiv.org/abs/2507.07861)|null|
+|**2025-07-11**|**Mid-IR hyperspectral imaging with undetected photons**|Marlon Placke et.al.|[2507.07861](http://arxiv.org/abs/2507.07861)|null|
 |**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
 |**2025-07-09**|**Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al.|[2507.07250](http://arxiv.org/abs/2507.07250)|null|
 |**2025-07-09**|**Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation**|Qing Zhang et.al.|[2507.06606](http://arxiv.org/abs/2507.06606)|null|
 |**2025-07-09**|**COS2A: Conversion from Sentinel-2 to AVIRIS Hyperspectral Data Using Interpretable Algorithm With Spectral-Spatial Duality**|Chia-Hsiang Lin et.al.|[2507.06575](http://arxiv.org/abs/2507.06575)|null|
-|**2025-07-08**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al.|[2507.05730](http://arxiv.org/abs/2507.05730)|null|
+|**2025-07-11**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al.|[2507.05730](http://arxiv.org/abs/2507.05730)|null|
 |**2025-07-07**|**A Deep Unfolding Framework for Diffractive Snapshot Spectral Imaging**|Zhengyue Zhuge et.al.|[2507.04622](http://arxiv.org/abs/2507.04622)|null|
 |**2025-07-06**|**Dynamic Frequency Feature Fusion Network for Multi-Source Remote Sensing Data Classification**|Yikang Zhao et.al.|[2507.04510](http://arxiv.org/abs/2507.04510)|null|
 |**2025-07-06**|**SFOOD: A Multimodal Benchmark for Comprehensive Food Attribute Analysis Beyond RGB with Spectral Insights**|Zhenbo Xu et.al.|[2507.04412](http://arxiv.org/abs/2507.04412)|null|
@@ -66,7 +66,7 @@ layout: default
 |**2025-07-10**|**On the capabilities of LLMs for classifying and segmenting time series of fruit picking motions into primitive actions**|Eleni Konstantinidou et.al.|[2507.07745](http://arxiv.org/abs/2507.07745)|null|
 |**2025-07-10**|**Action Unit Enhance Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2507.07678](http://arxiv.org/abs/2507.07678)|null|
 |**2025-07-10**|**A Novel Hybrid Approach for Time Series Forecasting: Period Estimation and Climate Data Analysis Using Unsupervised Learning and Spline Interpolation**|Tanmay Kayal et.al.|[2507.07652](http://arxiv.org/abs/2507.07652)|null|
-|**2025-07-10**|**A forecasting framework for galactic cosmic ray flux in space weather applications**|David Pelosi et.al.|[2507.07616](http://arxiv.org/abs/2507.07616)|null|
+|**2025-07-11**|**A forecasting framework for galactic cosmic ray flux in space weather applications**|David Pelosi et.al.|[2507.07616](http://arxiv.org/abs/2507.07616)|null|
 |**2025-07-09**|**Generating Multi-Table Time Series EHR from Latent Space with Minimal Preprocessing**|Eunbyeol Cho et.al.|[2507.06996](http://arxiv.org/abs/2507.06996)|null|
 |**2025-07-09**|**Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes**|Lisa Gaedke-Merzhäuser et.al.|[2507.06938](http://arxiv.org/abs/2507.06938)|null|
 |**2025-07-09**|**Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations**|Randolf Altmeyer et.al.|[2507.06857](http://arxiv.org/abs/2507.06857)|null|
