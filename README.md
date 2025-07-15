@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.|[2507.08282](http://arxiv.org/abs/2507.08282)|null|
+|**2025-07-10**|**Lightweight Cloud Masking Models for On-Board Inference in Hyperspectral Imaging**|Mazen Ali et.al.|[2507.08052](http://arxiv.org/abs/2507.08052)|null|
 |**2025-07-11**|**Mid-IR hyperspectral imaging with undetected photons**|Marlon Placke et.al.|[2507.07861](http://arxiv.org/abs/2507.07861)|null|
 |**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
 |**2025-07-09**|**Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al.|[2507.07250](http://arxiv.org/abs/2507.07250)|null|
@@ -59,12 +61,16 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738](http://arxiv.org/abs/2507.08738)|null|
+|**2025-07-11**|**Spatial and Temporal Evaluations of the Liquid Argon Purity in ProtoDUNE-SP**|DUNE Collaboration et.al.|[2507.08586](http://arxiv.org/abs/2507.08586)|null|
+|**2025-07-11**|**To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions**|Dimitrios Emmanoulopoulos et.al.|[2507.08584](http://arxiv.org/abs/2507.08584)|null|
+|**2025-07-10**|**Rethinking Spatio-Temporal Anomaly Detection: A Vision for Causality-Driven Cybersecurity**|Arun Vignesh Malarkkan et.al.|[2507.08177](http://arxiv.org/abs/2507.08177)|null|
 |**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
 |**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
 |**2025-07-10**|**Not Only Consistency: Enhance Test-Time Adaptation with Spatio-temporal Inconsistency for Remote Physiological Measurement**|Xiao Yang et.al.|[2507.07908](http://arxiv.org/abs/2507.07908)|null|
@@ -247,16 +253,21 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
+|**2025-07-11**|**Unified People Tracking with Graph Neural Networks**|Martin Engilberge et.al.|[2507.08494](http://arxiv.org/abs/2507.08494)|null|
+|**2025-07-10**|**EvA: Evolutionary Attacks on Graphs**|Mohammad Sadegh Akhondzadeh et.al.|[2507.08212](http://arxiv.org/abs/2507.08212)|null|
+|**2025-07-10**|**EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification**|Zhuodong Jiang et.al.|[2507.08184](http://arxiv.org/abs/2507.08184)|null|
+|**2025-07-10**|**Exploring substructures in the Milky Way halo Neural networks applied to Gaia and APOGEE DR 17**|L. Berni et.al.|[2507.08074](http://arxiv.org/abs/2507.08074)|null|
 |**2025-07-10**|**Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain**|Zizhou Zhang et.al.|[2507.07854](http://arxiv.org/abs/2507.07854)|null|
 |**2025-07-10**|**Machine Learning Tools for the IceCube-Gen2 Optical Array**|Francisco Javier Vara Carbonell et.al.|[2507.07844](http://arxiv.org/abs/2507.07844)|null|
 |**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
-|**2025-07-10**|**Reconstruction of cosmic-ray properties with GNN in GRAND**|Arsène Ferrière et.al.|[2507.07541](http://arxiv.org/abs/2507.07541)|null|
+|**2025-07-14**|**Reconstruction of cosmic-ray properties with GNN in GRAND**|Arsène Ferrière et.al.|[2507.07541](http://arxiv.org/abs/2507.07541)|null|
 |**2025-07-10**|**NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation**|Jinfeng Xu et.al.|[2507.07522](http://arxiv.org/abs/2507.07522)|null|
 |**2025-07-10**|**GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation**|Fardin Rastakhiz et.al.|[2507.07414](http://arxiv.org/abs/2507.07414)|null|
 |**2025-07-10**|**HGMP:Heterogeneous Graph Multi-Task Prompt Learning**|Pengfei Jiao et.al.|[2507.07405](http://arxiv.org/abs/2507.07405)|null|
@@ -392,7 +403,7 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Tensor Decomposition
 
@@ -426,7 +437,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
