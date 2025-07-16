@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.|[2507.09885](http://arxiv.org/abs/2507.09885)|null|
+|**2025-07-13**|**SDTN and TRN: Adaptive Spectral-Spatial Feature Extraction for Hyperspectral Image Classification**|Fuyin Ye et.al.|[2507.09492](http://arxiv.org/abs/2507.09492)|null|
 |**2025-07-14**|**MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.|[2507.08282](http://arxiv.org/abs/2507.08282)|null|
 |**2025-07-10**|**Lightweight Cloud Masking Models for On-Board Inference in Hyperspectral Imaging**|Mazen Ali et.al.|[2507.08052](http://arxiv.org/abs/2507.08052)|null|
 |**2025-07-11**|**Mid-IR hyperspectral imaging with undetected photons**|Marlon Placke et.al.|[2507.07861](http://arxiv.org/abs/2507.07861)|null|
@@ -61,12 +63,22 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Inference of time delay in stochastic systems**|Robin A. Kopp et.al.|[2507.10429](http://arxiv.org/abs/2507.10429)|null|
+|**2025-07-14**|**Intermittency in Voyager Magnetic Field Beyond the Heliosphere**|L. Y. Khoo et.al.|[2507.10378](http://arxiv.org/abs/2507.10378)|null|
+|**2025-07-14**|**TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting**|Zhiyuan Zhao et.al.|[2507.10349](http://arxiv.org/abs/2507.10349)|null|
+|**2025-07-14**|**MoCap-Impute: A Comprehensive Benchmark and Comparative Analysis of Imputation Methods for IMU-based Motion Capture Data**|Mahmoud Bekhit et.al.|[2507.10334](http://arxiv.org/abs/2507.10334)|null|
+|**2025-07-14**|**Tracing attosecond currents and controlling their direction in a scanning tunneling microscope**|Daniel Davidovich et.al.|[2507.10252](http://arxiv.org/abs/2507.10252)|null|
+|**2025-07-14**|**Attosecond charge transfer in atomic-resolution scanning tunnelling microscopy**|Simon Maier et.al.|[2507.10206](http://arxiv.org/abs/2507.10206)|null|
+|**2025-07-14**|**Intrinsic frequency distribution characterises neural dynamics**|Ryohei Fukuma et.al.|[2507.10145](http://arxiv.org/abs/2507.10145)|null|
+|**2025-07-14**|**Wavelet-Enhanced Neural ODE and Graph Attention for Interpretable Energy Forecasting**|Usman Gani Joy et.al.|[2507.10132](http://arxiv.org/abs/2507.10132)|null|
+|**2025-07-14**|**Fusing Large Language Models with Temporal Transformers for Time Series Forecasting**|Chen Su et.al.|[2507.10098](http://arxiv.org/abs/2507.10098)|null|
+|**2025-07-14**|**Observational mapping of the mass discrepancy in eclipsing binaries. A new self-contained framework for concurrent analysis of photometric and spectroscopic time series**|Nadya Serebriakova et.al.|[2507.10096](http://arxiv.org/abs/2507.10096)|null|
 |**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738](http://arxiv.org/abs/2507.08738)|null|
 |**2025-07-11**|**Spatial and Temporal Evaluations of the Liquid Argon Purity in ProtoDUNE-SP**|DUNE Collaboration et.al.|[2507.08586](http://arxiv.org/abs/2507.08586)|null|
 |**2025-07-11**|**To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions**|Dimitrios Emmanoulopoulos et.al.|[2507.08584](http://arxiv.org/abs/2507.08584)|null|
@@ -253,12 +265,22 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
+|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
+|**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014](http://arxiv.org/abs/2507.10014)|null|
+|**2025-07-14**|**Effects of structural properties of neural networks on machine learning performance**|Yash Arya et.al.|[2507.10005](http://arxiv.org/abs/2507.10005)|null|
+|**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890](http://arxiv.org/abs/2507.09890)|null|
+|**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797](http://arxiv.org/abs/2507.09797)|null|
+|**2025-07-13**|**Do we need equivariant models for molecule generation?**|Ewa M. Nowara et.al.|[2507.09753](http://arxiv.org/abs/2507.09753)|null|
+|**2025-07-12**|**Joint Access Point Activation and Power Allocation for Cell-Free Massive MIMO Aided ISAC Systems**|Nguyen Xuan Tung et.al.|[2507.09425](http://arxiv.org/abs/2507.09425)|null|
+|**2025-07-12**|**Lightweight Graph Neural Networks for Enhanced 5G NR Channel Estimation**|Sajedeh Norouzi et.al.|[2507.09408](http://arxiv.org/abs/2507.09408)|null|
+|**2025-07-12**|**Geometric Generative Modeling with Noise-Conditioned Graph Networks**|Peter Pao-Huang et.al.|[2507.09391](http://arxiv.org/abs/2507.09391)|null|
 |**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
 |**2025-07-11**|**Unified People Tracking with Graph Neural Networks**|Martin Engilberge et.al.|[2507.08494](http://arxiv.org/abs/2507.08494)|null|
 |**2025-07-10**|**EvA: Evolutionary Attacks on Graphs**|Mohammad Sadegh Akhondzadeh et.al.|[2507.08212](http://arxiv.org/abs/2507.08212)|null|
@@ -403,12 +425,13 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Tensor Decomposition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-13**|**SDTN and TRN: Adaptive Spectral-Spatial Feature Extraction for Hyperspectral Image Classification**|Fuyin Ye et.al.|[2507.09492](http://arxiv.org/abs/2507.09492)|null|
 |**2025-07-10**|**Compressive Imaging Reconstruction via Tensor Decomposed Multi-Resolution Grid Encoding**|Zhenyu Jin et.al.|[2507.07707](http://arxiv.org/abs/2507.07707)|null|
 |**2025-07-06**|**Normalized Iterative Hard Thresholding for Tensor Recovery**|Li Li et.al.|[2507.04228](http://arxiv.org/abs/2507.04228)|null|
 |**2025-06-30**|**Flow-Through Tensors: A Unified Computational Graph Architecture for Multi-Layer Transportation Network Optimization**|Xuesong et.al.|[2507.02961](http://arxiv.org/abs/2507.02961)|null|
@@ -437,7 +460,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
