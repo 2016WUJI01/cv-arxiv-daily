@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Temporally-multiplexed dual-frequency terahertz imaging at kilohertz frame rates**|Lucy A. Downes et.al.|[2507.11232](http://arxiv.org/abs/2507.11232)|null|
 |**2025-07-14**|**MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.|[2507.09885](http://arxiv.org/abs/2507.09885)|null|
 |**2025-07-13**|**SDTN and TRN: Adaptive Spectral-Spatial Feature Extraction for Hyperspectral Image Classification**|Fuyin Ye et.al.|[2507.09492](http://arxiv.org/abs/2507.09492)|null|
 |**2025-07-14**|**MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.|[2507.08282](http://arxiv.org/abs/2507.08282)|null|
@@ -63,12 +64,22 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
+|**2025-07-15**|**D3FL: Data Distribution and Detrending for Robust Federated Learning in Non-linear Time-series Data**|Harsha Varun Marisetty et.al.|[2507.11471](http://arxiv.org/abs/2507.11471)|null|
+|**2025-07-16**|**Data Augmentation in Time Series Forecasting through Inverted Framework**|Hongming Tan et.al.|[2507.11439](http://arxiv.org/abs/2507.11439)|null|
+|**2025-07-15**|**Extropy Rate: Properties and Application in Feature Selection**|Naveen Kumar et.al.|[2507.11242](http://arxiv.org/abs/2507.11242)|null|
+|**2025-07-15**|**Connected forcing density and related problems**|Boris Brimkov et.al.|[2507.11194](http://arxiv.org/abs/2507.11194)|null|
+|**2025-07-15**|**Gradient Regularization-based Neural Granger Causality**|Meiliang Liu et.al.|[2507.11178](http://arxiv.org/abs/2507.11178)|null|
+|**2025-07-15**|**Joint semi-parametric INAR bootstrap inference for model coefficients and innovation distribution**|Maxime Faymonville et.al.|[2507.11124](http://arxiv.org/abs/2507.11124)|null|
+|**2025-07-16**|**Finding Order-Preserving Subgraphs**|Haruya Imamura et.al.|[2507.11115](http://arxiv.org/abs/2507.11115)|null|
+|**2025-07-15**|**Atmos-Bench: 3D Atmospheric Structures for Climate Insight**|Tianchi Xu et.al.|[2507.11085](http://arxiv.org/abs/2507.11085)|null|
+|**2025-07-15**|**Time-series forecasting for nonlinear high-dimensional system using hybrid method combining autoencoder and multi-parallelized quantum long short-term memory and gated recurrent unit**|Makoto Takagi et.al.|[2507.10876](http://arxiv.org/abs/2507.10876)|null|
 |**2025-07-14**|**Inference of time delay in stochastic systems**|Robin A. Kopp et.al.|[2507.10429](http://arxiv.org/abs/2507.10429)|null|
 |**2025-07-14**|**Intermittency in Voyager Magnetic Field Beyond the Heliosphere**|L. Y. Khoo et.al.|[2507.10378](http://arxiv.org/abs/2507.10378)|null|
 |**2025-07-14**|**TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting**|Zhiyuan Zhao et.al.|[2507.10349](http://arxiv.org/abs/2507.10349)|null|
@@ -265,13 +276,22 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
+|**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057](http://arxiv.org/abs/2507.11057)|null|
+|**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053](http://arxiv.org/abs/2507.11053)|null|
+|**2025-07-15**|**Graph-based Fingerprint Update Using Unlabelled WiFi Signals**|Ka Ho Chiu et.al.|[2507.11038](http://arxiv.org/abs/2507.11038)|null|
+|**2025-07-15**|**Biological Processing Units: Leveraging an Insect Connectome to Pioneer Biofidelic Neural Architectures**|Siyu Yu et.al.|[2507.10951](http://arxiv.org/abs/2507.10951)|null|
+|**2025-07-15**|**GALDS: A Graph-Autoencoder-based Latent Dynamics Surrogate model to predict neurite material transport**|Tsung Yeh Hsieh et.al.|[2507.10871](http://arxiv.org/abs/2507.10871)|null|
+|**2025-07-14**|**HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity**|Matteo Bagagli et.al.|[2507.10850](http://arxiv.org/abs/2507.10850)|null|
+|**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
+|**2025-07-14**|**Learning to Quantize and Precode in Massive MIMO Systems for Energy Reduction: a Graph Neural Network Approach**|Thomas Feys et.al.|[2507.10634](http://arxiv.org/abs/2507.10634)|null|
+|**2025-07-16**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
 |**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014](http://arxiv.org/abs/2507.10014)|null|
 |**2025-07-14**|**Effects of structural properties of neural networks on machine learning performance**|Yash Arya et.al.|[2507.10005](http://arxiv.org/abs/2507.10005)|null|
@@ -425,7 +445,7 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Tensor Decomposition
 
@@ -460,7 +480,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
