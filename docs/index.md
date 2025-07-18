@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HSI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
 |**2025-07-15**|**Temporally-multiplexed dual-frequency terahertz imaging at kilohertz frame rates**|Lucy A. Downes et.al.|[2507.11232](http://arxiv.org/abs/2507.11232)|null|
 |**2025-07-14**|**MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.|[2507.09885](http://arxiv.org/abs/2507.09885)|null|
 |**2025-07-13**|**SDTN and TRN: Adaptive Spectral-Spatial Feature Extraction for Hyperspectral Image Classification**|Fuyin Ye et.al.|[2507.09492](http://arxiv.org/abs/2507.09492)|null|
@@ -62,6 +63,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Traffic-Aware Pedestrian Intention Prediction**|Fahimeh Orvati Nia et.al.|[2507.12433](http://arxiv.org/abs/2507.12433)|null|
+|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
+|**2025-07-16**|**Precision measurement of the ${\itΞ}_b^0$ baryon lifetime**|LHCb collaboration et.al.|[2507.12402](http://arxiv.org/abs/2507.12402)|null|
+|**2025-07-16**|**Forecasting Climate Policy Uncertainty: Evidence from the United States**|Donia Besher et.al.|[2507.12276](http://arxiv.org/abs/2507.12276)|null|
+|**2025-07-16**|**Robust Causal Discovery in Real-World Time Series with Power-Laws**|Matteo Tusoni et.al.|[2507.12257](http://arxiv.org/abs/2507.12257)|null|
+|**2025-07-16**|**A solid-state temporally multiplexed quantum memory array at the single-photon level**|Markus Teller et.al.|[2507.12200](http://arxiv.org/abs/2507.12200)|null|
+|**2025-07-16**|**SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models**|Chen Li et.al.|[2507.12156](http://arxiv.org/abs/2507.12156)|null|
+|**2025-07-16**|**Bootstrap prediction intervals for the age distribution of life-table death counts**|Han Lin Shang et.al.|[2507.11946](http://arxiv.org/abs/2507.11946)|null|
+|**2025-07-16**|**Near-Infrared Spectroscopy and Detection of Carbon Monoxide in the Type II Supernova SN 2023ixf**|Seong Hyun Park et.al.|[2507.11877](http://arxiv.org/abs/2507.11877)|null|
+|**2025-07-16**|**Surfactant-laden breaking wave: regular and spilling regimes**|B. Wang et.al.|[2507.11876](http://arxiv.org/abs/2507.11876)|null|
 |**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
 |**2025-07-15**|**D3FL: Data Distribution and Detrending for Robust Federated Learning in Non-linear Time-series Data**|Harsha Varun Marisetty et.al.|[2507.11471](http://arxiv.org/abs/2507.11471)|null|
 |**2025-07-16**|**Data Augmentation in Time Series Forecasting through Inverted Framework**|Hongming Tan et.al.|[2507.11439](http://arxiv.org/abs/2507.11439)|null|
@@ -272,6 +283,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
+|**2025-07-17**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
+|**2025-07-16**|**Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**|Tairan Huang et.al.|[2507.11997](http://arxiv.org/abs/2507.11997)|null|
+|**2025-07-15**|**Enhancements to the IceCube Extremely High Energy Neutrino Selection using Graph & Transformer Based Neural Networks**|Maxwell Nakos et.al.|[2507.11774](http://arxiv.org/abs/2507.11774)|null|
+|**2025-07-15**|**A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction**|Yuehua Song et.al.|[2507.11757](http://arxiv.org/abs/2507.11757)|null|
+|**2025-07-15**|**Graph Neural Networks Powered by Encoder Embedding for Improved Node Learning**|Shiyu Chen et.al.|[2507.11732](http://arxiv.org/abs/2507.11732)|null|
+|**2025-07-15**|**Subgraph Generation for Generalizing on Out-of-Distribution Links**|Jay Revolinsky et.al.|[2507.11710](http://arxiv.org/abs/2507.11710)|null|
+|**2025-07-15**|**PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training**|Seth Ockerman et.al.|[2507.11683](http://arxiv.org/abs/2507.11683)|null|
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
 |**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057](http://arxiv.org/abs/2507.11057)|null|
 |**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053](http://arxiv.org/abs/2507.11053)|null|
@@ -439,6 +458,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Smooth tensor decomposition with application to ambulatory blood pressure monitoring data**|Leyuan Qian et.al.|[2507.11723](http://arxiv.org/abs/2507.11723)|null|
 |**2025-07-13**|**SDTN and TRN: Adaptive Spectral-Spatial Feature Extraction for Hyperspectral Image Classification**|Fuyin Ye et.al.|[2507.09492](http://arxiv.org/abs/2507.09492)|null|
 |**2025-07-10**|**Compressive Imaging Reconstruction via Tensor Decomposed Multi-Resolution Grid Encoding**|Zhenyu Jin et.al.|[2507.07707](http://arxiv.org/abs/2507.07707)|null|
 |**2025-07-06**|**Normalized Iterative Hard Thresholding for Tensor Recovery**|Li Li et.al.|[2507.04228](http://arxiv.org/abs/2507.04228)|null|
