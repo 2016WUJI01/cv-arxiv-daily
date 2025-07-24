@@ -1,4 +1,4 @@
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556](http://arxiv.org/abs/2507.16556)|null|
 |**2025-07-21**|**Label tree semantic losses for rich multi-class medical image segmentation**|Junwen Wang et.al.|[2507.15777](http://arxiv.org/abs/2507.15777)|null|
 |**2025-07-20**|**FOCUS: Fused Observation of Channels for Unveiling Spectra**|Xi Xiao et.al.|[2507.14787](http://arxiv.org/abs/2507.14787)|null|
 |**2025-07-18**|**Learning Spectral Diffusion Prior for Hyperspectral Image Reconstruction**|Mingyang Yu et.al.|[2507.13769](http://arxiv.org/abs/2507.13769)|null|
@@ -70,12 +71,22 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**A comparison between behavioral similarity methods vs standard deviation method in predicting time series dataset, case study of finance market**|Mahdi Goldani et.al.|[2507.16655](http://arxiv.org/abs/2507.16655)|null|
+|**2025-07-22**|**Ultrafast X-ray sonography reveals the spatial heterogeneity of the laser-induced magneto-structural phase transition in FeRh**|Maximilian Mattern et.al.|[2507.16638](http://arxiv.org/abs/2507.16638)|null|
+|**2025-07-22**|**Canonical Correlation Patterns for Validating Clustering of Multivariate Time Series**|Isabella Degen et.al.|[2507.16497](http://arxiv.org/abs/2507.16497)|null|
+|**2025-07-22**|**COMPASS: Cooperative Multi-Agent Persistent Monitoring using Spatio-Temporal Attention Network**|Xingjian Zhang et.al.|[2507.16306](http://arxiv.org/abs/2507.16306)|null|
+|**2025-07-22**|**Reducing GPU Memory Fragmentation via Spatio-Temporal Planning for Efficient Large-Scale Model Training**|Zixiao Huang et.al.|[2507.16274](http://arxiv.org/abs/2507.16274)|null|
+|**2025-07-22**|**METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark**|Xu Yang et.al.|[2507.16206](http://arxiv.org/abs/2507.16206)|null|
+|**2025-07-22**|**A statistical complexity measure can differentiate Go/NoGo trials during a visual-motor task using human electroencephalogram data**|Francisco Leandro P. Carlos et.al.|[2507.16159](http://arxiv.org/abs/2507.16159)|null|
+|**2025-07-22**|**Density Prediction of Income Distribution Based on Mixed Frequency Data**|Yinzhi Wang et.al.|[2507.16150](http://arxiv.org/abs/2507.16150)|null|
+|**2025-07-22**|**SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting**|Shuhao Mei et.al.|[2507.16145](http://arxiv.org/abs/2507.16145)|null|
+|**2025-07-21**|**Predictive inference for discrete-valued time series**|Maxime Faymonville et.al.|[2507.16035](http://arxiv.org/abs/2507.16035)|null|
 |**2025-07-21**|**Hypergraphs on high dimensional time series sets using signature transform**|Rémi Vaucher et.al.|[2507.15802](http://arxiv.org/abs/2507.15802)|null|
 |**2025-07-21**|**Dynamics is what you need for time-series forecasting!**|Alexis-Raja Brachet et.al.|[2507.15774](http://arxiv.org/abs/2507.15774)|null|
 |**2025-07-21**|**DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding**|Xiaoyi Bao et.al.|[2507.15569](http://arxiv.org/abs/2507.15569)|null|
@@ -322,12 +333,18 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678](http://arxiv.org/abs/2507.16678)|null|
+|**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396](http://arxiv.org/abs/2507.16396)|null|
+|**2025-07-22**|**ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing**|Ondrej Vlcek et.al.|[2507.16379](http://arxiv.org/abs/2507.16379)|null|
+|**2025-07-22**|**Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks**|Yumeng Wang et.al.|[2507.16347](http://arxiv.org/abs/2507.16347)|null|
+|**2025-07-22**|**LLM-Enhanced Reranking for Complementary Product Recommendation**|Zekun Xu et.al.|[2507.16237](http://arxiv.org/abs/2507.16237)|null|
+|**2025-07-21**|**Fast Task Planning with Neuro-Symbolic Relaxation**|Qiwei Du et.al.|[2507.15975](http://arxiv.org/abs/2507.15975)|null|
 |**2025-07-21**|**Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets**|Zihang Ma et.al.|[2507.15784](http://arxiv.org/abs/2507.15784)|null|
 |**2025-07-21**|**TrajLens: Visual Analysis for Constructing Cell Developmental Trajectories in Cross-Sample Exploration**|Qipeng Wang et.al.|[2507.15620](http://arxiv.org/abs/2507.15620)|null|
 |**2025-07-21**|**Hypergraph modelling of wave scattering to speed-up material design**|Kunwoo Park et.al.|[2507.15329](http://arxiv.org/abs/2507.15329)|null|
@@ -524,7 +541,7 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Tensor Decomposition
 
@@ -563,7 +580,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
