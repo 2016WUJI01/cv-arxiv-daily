@@ -1,4 +1,4 @@
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## Time Series
 
@@ -333,7 +333,7 @@
 |**2025-06-10**|**Variational inference for steady-state BVARs**|Oskar Gustafsson et.al.|[2506.09271](http://arxiv.org/abs/2506.09271)|null|
 |**2025-06-10**|**CFMI: Flow Matching for Missing Data Imputation**|Vaidotas Simkus et.al.|[2506.09258](http://arxiv.org/abs/2506.09258)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## Graph Neural Networks
 
@@ -541,7 +541,7 @@
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## Tensor Decomposition
 
@@ -580,7 +580,7 @@
 |**2025-06-05**|**Efficient randomized algorithms for the fixed Tucker-rank problem of Tucker decomposition with adaptive shifts**|Maolin Che et.al.|[2506.04840](http://arxiv.org/abs/2506.04840)|null|
 |**2025-06-03**|**Knowledge Graph Completion by Intermediate Variables Regularization**|Changyi Xiao et.al.|[2506.02749](http://arxiv.org/abs/2506.02749)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
